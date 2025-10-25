@@ -1,0 +1,98 @@
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://de.tradingview.com/markets/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    {
+      "proName": "FOREXCOM:SPXUSD",
+      "title": "S&P 500 Index"
+    },
+    {
+      "proName": "FX_IDC:EURUSD",
+      "title": "EUR to USD"
+    },
+    {
+      "proName": "BITSTAMP:BTCUSD",
+      "title": "Bitcoin"
+    },
+    {
+      "proName": "BITSTAMP:ETHUSD",
+      "title": "Ethereum"
+    },
+    {
+      "proName": "NASDAQ:NVDA",
+      "title": "Nvidia"
+    },
+    {
+      "proName": "TVC:VIX",
+      "title": "Volatilitätsindex"
+    },
+    {
+      "proName": "NASDAQ:TSLA",
+      "title": "Tesla"
+    },
+    {
+      "proName": "NASDAQ:SFM",
+      "title": "Sprouts Farmers Market"
+    },
+    {
+      "proName": "NYSE:CRS",
+      "title": "Carpenter Technology"
+    },
+    {
+      "proName": "NYSE:VST",
+      "title": "Vistra"
+    },
+    {
+      "proName": "NYSE:PWR",
+      "title": "Quanta Services"
+    },
+    {
+      "proName": "NYSE:FIX",
+      "title": "Comfort Systems"
+    },
+    {
+      "proName": "NASDAQ:MSFT",
+      "title": "Microsoft"
+    },
+    {
+      "proName": "NASDAQ:PLTR",
+      "title": "Palantir"
+    },
+    {
+      "proName": "NYSE:VRT",
+      "title": "Vertiv"
+    },
+    {
+      "proName": "NYSE:APH",
+      "title": "Amphenol"
+    },
+    {
+      "proName": "NYSE:LLY",
+      "title": "LLY"
+    },
+    {
+      "proName": "NYSE:NVO",
+      "title": "Novo"
+    },
+    {
+      "proName": "NASDAQ:GOOG",
+      "title": "Google"
+    },
+    {
+      "proName": "NASDAQ:AMZN",
+      "title": "Amazon"
+    }
+  ],
+  "colorTheme": "dark",
+  "locale": "de_DE",
+  "largeChartUrl": "",
+  "isTransparent": true,
+  "showSymbolLogo": false,
+  "displayMode": "compact"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
